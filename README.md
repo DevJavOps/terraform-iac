@@ -110,7 +110,7 @@ This repository provides comprehensive Terraform configurations to deploy scalab
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/davraops/terraform-iac.git
+    git clone https://github.com/devjavops/terraform-iac.git
     cd terraform-iac
     ```
 
